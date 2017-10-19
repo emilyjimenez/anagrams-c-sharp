@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Rename.Models;
+using Anagram.Models;
 
-namespace Rename.Tests
+namespace Anagram.Tests
 {
   [TestClass]
-  public class RenameTest
+  public class AnagramTest
   {
     [TestMethod]
     public void Method_Description_ExpectedValue()
